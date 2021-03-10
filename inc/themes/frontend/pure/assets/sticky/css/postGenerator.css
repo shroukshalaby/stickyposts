@@ -1,0 +1,49 @@
+@media(max-width:567px){
+ .section-2 .item img{
+       width:50%;
+    }}
+  .section-2{
+      padding:10px 0;
+  }  
+.myModal #pills-tab .active {
+    background: #f9c412;
+    color: #320b82;
+    border-radius: 5px;
+
+}
+.myModal .model-tabs {
+    background: #fff;
+    color: #111;
+    padding: 2px 20px;
+    line-height: 1;
+    border-radius: 5px;
+}
+.banner-style-one.home-page-two{
+    padding: 100px 0px 65px;
+    background:linear-gradient(to right, #931459 22%  , #320b83 100%)!important;
+    position: relative;
+}
+
+.single-pricing-one h2{
+    background:linear-gradient(to right, #931459 22%  , #320b83 100%);
+    color:#fff;
+}
+.client-section {
+	background-color: #eef2f5;
+	border: 1px solid #eef2f5;
+}
+
+.clients .single img {
+	width: 80px;
+	opacity: 1;
+}
+.clients .single .color{
+    display:none;
+}
+.clients .single:hover .none{
+    display:none;
+}
+.clients .single:hover .color{
+    display:block;
+}
+

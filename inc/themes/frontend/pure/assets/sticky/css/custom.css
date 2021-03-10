@@ -1,0 +1,132 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+.section{
+    background: linear-gradient(-145deg, #320b82 0%, #9c33c3 100%) ;
+    padding:55px 0 20px;
+  }
+  li{
+    list-style:none;
+}
+.boxss{
+    margin: 5px 0;
+    box-shadow: 0 0 10px -2px;
+    padding-bottom:10px;
+    
+}
+/*.sub_header_in{*/
+/*    padding:75px 0 20px;*/
+/*}*/
+.IMAGES {
+    width: 14%;
+    position: absolute;
+    left: 8%;
+    bottom: 83%;
+    
+}
+.submit{
+    background:linear-gradient(90deg,#42b0ff,#4262ff);
+    border-radius:5px;
+}
+.IMAGES2{
+    bottom: 54%;
+    width: 14%;
+    left: 6%;
+}
+  .head-color{
+      color:#320B82;
+      text-align: center;
+      /*font-size:1.4rem;*/
+  }
+  .my-content{
+       background:#fff;
+      width: 85%;
+    margin: auto;  
+  }
+.box_shadow{
+    background:#fff;
+       padding: 10px;
+    -webkit-box-shadow: 0px 0px 19px -4px rgba(47,22,126,1);
+    -moz-box-shadow: 0px 0px 19px -4px rgba(47,22,126,1);
+    box-shadow: 0px 0px 19px -4px rgba(47,22,126,1);
+    border-radius:10px;
+    
+}
+.card-body {
+    height: 111px;
+}
+.sub_header_in.sticky_header {
+    margin-top: 0;
+}
+h1{
+    color:#320B82;
+    background:none;
+    text-align:center;
+}
+.main_title_2{
+    margin-bottom:5px;
+}
+.model-tabs{
+    background: #fff;
+    color: #320b82;
+    padding: 5px 20px;
+    border-radius:5px;
+    
+}
+#pills-tab .active{
+ background: linear-gradient(-145deg, #320b82 0%, #9c33c3 100%) ;
+    color: #fff;
+border-radius:5px;
+}
+.sticky-btn{
+  background: linear-gradient(-145deg, #320b82 0%, #9c33c3 100%) ;
+    color: #fff;
+    margin-top: 5px;
+    padding: 2px 20px;
+    margin-bottom: 5px;
+    
+
+}
+.main_title_2 span{
+    background:none !important;
+}
+
+.bg-color{
+        background:linear-gradient(-145deg, #320b82 0%, #9c33c3 100%)!important;
+        color:#fff;
+        padding:2px 15px;
+        
+}
+
+/*.row{*/
+/*    align-items: center;*/
+/*}*/
+
+
+#email{
+    min-width:250px;
+}
+/*@media (min-width: 1200px){*/
+/*    .container {*/
+/*        min-width: 1180px;*/
+/*    }*/
+/*}*/
+.caption-content p{
+    text-align: right;
+    font-size: 14px;
+    margin: 0;
+    background: #fff;
+    color: #000;
+}
+.main-menu ul a, .main-menu ul li a{
+    color:#fff;
+}
+.nav-footer__header{
+    color:#fff;
+}
+.nav-footer__item{
+    margin:0;
+}
+.modal-backdrop.show{
+    display:none;
+}

@@ -1,0 +1,84 @@
+ @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600&display=swap');
+
+
+*,body{
+    direction: rtl;
+    font-family: 'cairo', serif;
+    font-weight: 400;
+  
+}
+.header-navigation .main-navigation
+{
+    float: left!important;
+    text-align:left!important;
+}
+.text-start{
+    text-align:start;
+}
+.text-end{
+    text-align:end;
+}
+.p-5-80{
+    text-align:right;
+}
+.rtl-right{
+    text-align:right;
+}
+.owl-stage-outer{
+
+    direction: ltr !important;
+}
+.fa{
+
+    font-family: "Font Awesome 5 Free" !important   ;
+}
+.single-pricing-one ul.feature-lists {
+    text-align: right!important;
+}
+.pr-rtl-0{
+    padding-right:0!important;
+    padding-left: 10px!important;
+}
+.dir-rtl{
+      direction: ltr!important;  
+}
+.dropdown .dropdown-menu .dropdown-item{
+     text-align: right!important;
+}
+.section-2 .item .caption{
+     text-align: right;
+}
+.new_text{
+    right: 53%!important;
+    top: 14px;
+    width: 55px;
+
+}
+.package-second-card{
+    text-align:right;
+}
+
+
+ .mr-ar-4 {
+    margin-right:0;
+    margin-left:0;
+  }
+.nav-footer .row{
+   direction: ltr; 
+}
+
+.call_btn{
+    left: 25%!important;
+}
+.payment-steps-colbg p{
+    text-align:right!important;
+}
+
+
+
+
+
+
+
+
+

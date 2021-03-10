@@ -1,0 +1,22 @@
+<?php
+$lang["Google my business Post"] = "Google my business Post";
+$lang["Post"] = "Post";
+$lang["Success"] = "Success";
+$lang["Photo"] = "Photo";
+$lang["Text"] = "Text";
+$lang["Google my business requires an imag"] = "Google my business requires an imag";
+$lang["Google my business API not support post video"] = "Google my business API not support post video";
+$lang["Last 30 days"] = "Last 30 days";
+$lang["Successed"] = "Successed";
+$lang["Failed"] = "Failed";
+$lang["Post type"] = "Post type";
+$lang["Total"] = "Total";
+$lang["Advance option"] = "Advance option";
+$lang["Call To Action"] = "Call To Action";
+$lang["Learn more"] = "Learn more";
+$lang["Book"] = "Book";
+$lang["Order online"] = "Order online";
+$lang["Shop"] = "Shop";
+$lang["Sign up"] = "Sign up";
+$lang["Enter your link"] = "Enter your link";
+$lang["This social network not support post this post type"] = "This social network not support post this post type";
